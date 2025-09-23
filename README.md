@@ -62,17 +62,10 @@ Here are some ideas to get you started:
 
 ---
 
-## 📊 GitHub Stats
-
-![Ayush's GitHub stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=radical)
-
----
-
 ## 🖐️ Let's Connect
 
 I love collaborating on **open-source projects**, **web apps**, and **AI solutions**.  
-Reach out on [LinkedIn](https://www.linkedin.com/in/ayushpandey20/) or email me at [your.email@example.com](mailto:pandeyayush.0005@gmail.com).  
+Reach out on [LinkedIn](https://www.linkedin.com/in/ayushpandey20/) or email me at [Email](mailto:pandeyayush.0005@gmail.com).  
 
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=yourusername)
 
