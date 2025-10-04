@@ -41,9 +41,12 @@
 - Added **Editorial Board** and **Submission pages**  
 - Integrated **LinkedIn links, emails, and designations** of editors  
 
-### [Cultural Canvas](https://github.com/Ayush-2005-ap/Cultural-canvas)
-- AI-powered platform showcasing **India’s rich heritage**  
-- Interactive features for **researchers and enthusiasts**
+### [AgriConnect](https://github.com/Ayush-2005-ap/crop_monitoring_platform)
+-Developed AgriConnect, an AI-powered smart farming platform.
+-Created a website to provide real-time agricultural insights.
+-Trained machine learning models on hyperspectral imaging for crop health monitoring.
+-Built models using sensor data to predict soil health and pest risks.
+-Aimed to enhance farm productivity and promote sustainable agriculture.
 
 ---
 
